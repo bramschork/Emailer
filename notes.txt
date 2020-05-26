@@ -1,0 +1,5 @@
+Hosting Heroku
+OAuth Google Cloud Platform
+
+Starting nodemon(it auto-restarts the server any time changes are made): npm run dev
+Otherwise: node index.js
